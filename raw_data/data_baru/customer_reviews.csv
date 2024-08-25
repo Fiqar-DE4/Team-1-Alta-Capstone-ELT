@@ -1,0 +1,1001 @@
+review_id,product_id,customer_id,review_dates,ratings,reviews
+1,1,1,2023-09-15,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+2,2,2,2024-04-05,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+3,3,3,2023-08-23,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+4,4,4,2023-09-15,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+5,5,5,2024-02-08,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+6,6,6,2024-07-22,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+7,7,7,2023-08-21,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+8,8,8,2024-06-26,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+9,9,9,2023-12-31,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+10,10,10,2023-11-05,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+11,11,11,2024-07-02,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+12,12,12,2024-04-10,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+13,13,13,2024-07-25,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+14,14,14,2023-09-18,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+15,15,15,2024-03-10,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+16,16,16,2024-06-12,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+17,17,17,2024-04-30,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+18,18,18,2023-08-21,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+19,19,19,2024-03-15,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+20,20,20,2023-11-04,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+21,21,21,2024-05-25,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+22,22,22,2023-11-20,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+23,23,23,2024-07-10,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+24,24,24,2024-03-03,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+25,25,25,2023-11-26,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+26,26,26,2023-10-15,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+27,27,27,2024-07-25,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+28,28,28,2023-11-17,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+29,29,29,2024-01-20,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+30,30,30,2024-08-06,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+31,31,31,2023-12-21,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+32,32,32,2024-02-07,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+33,33,33,2024-07-21,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+34,34,34,2024-06-18,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+35,35,35,2023-12-25,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+36,36,36,2024-05-15,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+37,37,37,2024-04-17,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+38,38,38,2024-04-25,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+39,39,39,2024-08-02,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+40,40,40,2023-09-25,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+41,41,41,2023-08-27,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+42,42,42,2024-03-11,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+43,43,43,2023-12-23,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+44,44,44,2024-03-18,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+45,45,45,2024-05-29,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+46,46,46,2024-05-11,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+47,47,47,2023-12-14,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+48,48,48,2023-11-07,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+49,49,49,2024-05-09,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+50,50,50,2023-12-16,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+51,51,51,2024-02-28,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+52,52,52,2024-02-27,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+53,53,53,2023-08-30,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+54,54,54,2024-04-17,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+55,55,55,2024-06-04,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+56,56,56,2024-01-28,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+57,57,57,2024-02-29,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+58,58,58,2024-07-29,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+59,59,59,2024-07-08,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+60,60,60,2023-12-24,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+61,61,61,2023-09-08,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+62,62,62,2024-03-31,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+63,63,63,2024-01-27,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+64,64,64,2024-03-12,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+65,65,65,2024-06-22,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+66,66,66,2023-12-27,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+67,67,67,2023-09-08,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+68,68,68,2024-06-17,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+69,69,69,2024-05-01,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+70,70,70,2024-01-28,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+71,71,71,2023-11-09,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+72,72,72,2024-05-26,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+73,73,73,2023-09-24,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+74,74,74,2024-03-25,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+75,75,75,2024-04-19,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+76,76,76,2023-12-27,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+77,77,77,2024-04-19,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+78,78,78,2024-05-17,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+79,79,79,2023-12-28,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+80,80,80,2024-08-15,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+81,81,81,2023-10-24,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+82,82,82,2023-12-09,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+83,83,83,2024-03-17,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+84,84,84,2024-02-25,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+85,85,85,2024-01-10,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+86,86,86,2024-03-21,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+87,87,87,2024-01-30,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+88,88,88,2024-04-06,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+89,89,89,2023-09-06,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+90,90,90,2024-08-10,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+91,91,91,2024-01-12,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+92,92,92,2023-12-13,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+93,93,93,2024-08-14,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+94,94,94,2024-05-23,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+95,95,95,2024-07-26,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+96,96,96,2023-11-29,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+97,97,97,2023-12-28,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+98,98,98,2024-07-18,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+99,99,99,2023-10-04,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+100,100,100,2024-07-05,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+101,101,101,2023-11-24,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+102,102,102,2023-09-13,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+103,103,103,2024-06-18,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+104,104,104,2023-12-31,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+105,105,105,2024-06-17,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+106,106,106,2024-05-22,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+107,107,107,2024-04-04,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+108,108,108,2024-03-22,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+109,109,109,2024-02-16,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+110,110,110,2023-12-13,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+111,111,111,2024-06-14,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+112,112,112,2024-04-05,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+113,113,113,2023-11-16,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+114,114,114,2023-10-27,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+115,115,115,2023-12-15,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+116,116,116,2024-05-21,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+117,117,117,2024-08-18,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+118,118,118,2024-05-23,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+119,119,119,2023-09-08,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+120,120,120,2024-03-18,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+121,121,121,2024-06-17,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+122,122,122,2024-04-13,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+123,123,123,2024-03-11,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+124,124,124,2023-10-05,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+125,125,125,2024-03-15,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+126,126,126,2024-01-19,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+127,127,127,2024-07-19,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+128,128,128,2024-04-12,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+129,129,129,2023-10-10,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+130,130,130,2023-11-20,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+131,131,131,2023-08-20,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+132,132,132,2023-12-17,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+133,133,133,2024-06-01,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+134,134,134,2023-08-31,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+135,135,135,2023-12-15,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+136,136,136,2023-09-18,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+137,137,137,2023-09-03,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+138,138,138,2023-09-20,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+139,139,139,2024-08-14,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+140,140,140,2023-10-10,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+141,141,141,2023-09-09,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+142,142,142,2024-06-28,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+143,143,143,2023-11-11,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+144,144,144,2024-02-29,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+145,145,145,2023-10-07,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+146,146,146,2023-08-29,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+147,147,147,2023-11-05,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+148,148,148,2024-07-18,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+149,149,149,2024-01-29,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+150,150,150,2023-11-07,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+151,151,151,2023-09-13,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+152,152,152,2023-08-24,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+153,153,153,2023-12-30,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+154,154,154,2024-04-19,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+155,155,155,2023-09-05,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+156,156,156,2024-07-04,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+157,157,157,2024-04-07,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+158,158,158,2024-06-20,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+159,159,159,2023-11-22,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+160,160,160,2024-05-30,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+161,161,161,2024-08-10,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+162,162,162,2023-12-20,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+163,163,163,2024-06-25,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+164,164,164,2024-03-14,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+165,165,165,2024-05-07,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+166,166,166,2023-12-07,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+167,167,167,2024-08-09,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+168,168,168,2024-07-05,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+169,169,169,2023-09-01,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+170,170,170,2024-03-13,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+171,171,171,2023-11-06,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+172,172,172,2024-06-28,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+173,173,173,2023-09-30,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+174,174,174,2023-12-16,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+175,175,175,2023-11-07,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+176,176,176,2024-01-08,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+177,177,177,2024-07-27,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+178,178,178,2023-11-05,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+179,179,179,2024-04-02,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+180,180,180,2024-01-20,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+181,181,181,2023-11-11,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+182,182,182,2024-03-29,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+183,183,183,2023-12-16,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+184,184,184,2024-05-08,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+185,185,185,2024-03-13,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+186,186,186,2024-02-13,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+187,187,187,2023-12-05,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+188,188,188,2023-10-14,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+189,189,189,2024-02-27,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+190,190,190,2024-01-09,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+191,191,191,2023-11-23,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+192,192,192,2023-10-17,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+193,193,193,2024-02-16,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+194,194,194,2024-03-17,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+195,195,195,2024-05-19,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+196,196,196,2024-08-08,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+197,197,197,2023-11-02,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+198,198,198,2024-07-23,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+199,199,199,2024-03-16,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+200,200,200,2023-11-09,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+201,201,201,2023-12-01,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+202,202,202,2023-11-06,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+203,203,203,2024-03-03,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+204,204,204,2023-12-24,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+205,205,205,2024-08-06,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+206,206,206,2023-11-01,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+207,207,207,2024-06-01,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+208,208,208,2024-02-02,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+209,209,209,2024-01-23,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+210,210,210,2024-06-05,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+211,211,211,2024-03-10,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+212,212,212,2024-07-07,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+213,213,213,2023-12-08,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+214,214,214,2023-09-03,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+215,215,215,2024-04-16,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+216,216,216,2024-07-09,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+217,217,217,2023-08-31,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+218,218,218,2024-06-22,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+219,219,219,2024-01-08,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+220,220,220,2024-01-29,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+221,221,221,2024-05-11,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+222,222,222,2023-11-14,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+223,223,223,2024-05-12,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+224,224,224,2024-01-15,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+225,225,225,2024-08-09,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+226,226,226,2023-12-10,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+227,227,227,2024-01-30,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+228,228,228,2024-01-10,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+229,229,229,2024-04-24,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+230,230,230,2024-05-22,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+231,231,231,2023-08-28,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+232,232,232,2023-08-26,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+233,233,233,2024-06-09,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+234,234,234,2024-01-01,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+235,235,235,2024-07-12,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+236,236,236,2023-12-14,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+237,237,237,2024-07-27,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+238,238,238,2024-05-21,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+239,239,239,2024-01-23,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+240,240,240,2024-06-29,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+241,241,241,2024-07-13,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+242,242,242,2023-09-01,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+243,243,243,2024-01-25,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+244,244,244,2023-10-25,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+245,245,245,2024-06-13,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+246,246,246,2024-05-20,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+247,247,247,2024-07-16,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+248,248,248,2024-05-21,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+249,249,249,2023-09-05,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+250,250,250,2024-01-02,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+251,251,251,2024-03-30,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+252,252,252,2024-04-27,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+253,253,253,2024-08-13,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+254,254,254,2024-07-14,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+255,255,255,2023-12-20,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+256,256,256,2024-08-10,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+257,257,257,2023-11-26,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+258,258,258,2023-10-12,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+259,259,259,2024-02-12,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+260,260,260,2023-12-23,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+261,261,261,2024-05-09,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+262,262,262,2024-04-02,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+263,263,263,2024-04-11,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+264,264,264,2023-10-25,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+265,265,265,2023-08-28,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+266,266,266,2024-06-15,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+267,267,267,2024-06-23,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+268,268,268,2024-03-13,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+269,269,269,2024-01-21,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+270,270,270,2024-06-17,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+271,271,271,2024-06-13,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+272,272,272,2023-10-15,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+273,273,273,2023-09-09,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+274,274,274,2024-08-07,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+275,275,275,2024-05-30,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+276,276,276,2024-08-14,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+277,277,277,2024-03-28,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+278,278,278,2023-09-06,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+279,279,279,2024-04-02,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+280,280,280,2023-12-03,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+281,281,281,2023-10-24,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+282,282,282,2023-10-24,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+283,283,283,2024-07-21,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+284,284,284,2023-11-30,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+285,285,285,2023-09-20,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+286,286,286,2024-07-27,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+287,287,287,2024-01-17,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+288,288,288,2023-09-09,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+289,289,289,2023-10-11,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+290,290,290,2024-03-10,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+291,291,291,2023-11-03,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+292,292,292,2024-07-21,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+293,293,293,2024-07-27,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+294,294,294,2023-12-16,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+295,295,295,2024-07-28,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+296,296,296,2023-11-09,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+297,297,297,2023-09-20,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+298,298,298,2024-07-11,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+299,299,299,2024-06-15,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+300,300,300,2023-09-21,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+301,301,301,2023-09-16,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+302,302,302,2024-03-12,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+303,303,303,2023-11-04,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+304,304,304,2023-12-05,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+305,305,305,2024-04-22,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+306,306,306,2024-03-07,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+307,307,307,2023-09-20,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+308,308,308,2023-11-12,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+309,309,309,2023-10-02,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+310,310,310,2024-07-27,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+311,311,311,2024-06-15,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+312,312,312,2024-04-11,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+313,313,313,2024-03-23,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+314,314,314,2023-08-31,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+315,315,315,2024-01-17,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+316,316,316,2024-05-12,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+317,317,317,2024-06-21,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+318,318,318,2024-05-17,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+319,319,319,2024-01-02,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+320,320,320,2024-04-16,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+321,321,321,2024-01-11,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+322,322,322,2024-05-17,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+323,323,323,2024-01-04,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+324,324,324,2024-03-05,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+325,325,325,2024-04-14,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+326,326,326,2023-12-18,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+327,327,327,2024-01-25,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+328,328,328,2024-02-24,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+329,329,329,2024-06-16,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+330,330,330,2024-02-23,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+331,331,331,2023-09-18,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+332,332,332,2024-08-05,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+333,333,333,2023-12-19,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+334,334,334,2023-12-16,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+335,335,335,2024-04-25,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+336,336,336,2024-03-19,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+337,337,337,2024-06-21,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+338,338,338,2024-03-31,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+339,339,339,2023-10-02,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+340,340,340,2024-04-15,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+341,341,341,2023-12-31,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+342,342,342,2023-11-02,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+343,343,343,2023-12-25,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+344,344,344,2024-05-07,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+345,345,345,2023-10-11,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+346,346,346,2024-02-06,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+347,347,347,2024-03-01,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+348,348,348,2024-01-18,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+349,349,349,2023-10-13,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+350,350,350,2023-12-30,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+351,351,351,2024-01-28,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+352,352,352,2023-09-24,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+353,353,353,2024-03-29,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+354,354,354,2024-05-24,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+355,355,355,2024-03-20,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+356,356,356,2024-07-28,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+357,357,357,2024-02-24,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+358,358,358,2024-04-19,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+359,359,359,2023-09-06,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+360,360,360,2023-10-13,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+361,361,361,2023-12-21,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+362,362,362,2024-07-21,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+363,363,363,2024-02-02,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+364,364,364,2024-01-30,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+365,365,365,2024-03-06,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+366,366,366,2024-04-23,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+367,367,367,2024-07-29,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+368,368,368,2024-07-27,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+369,369,369,2024-04-13,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+370,370,370,2024-04-19,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+371,371,371,2024-08-08,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+372,372,372,2024-03-07,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+373,373,373,2024-08-16,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+374,374,374,2023-09-22,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+375,375,375,2024-07-05,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+376,376,376,2024-07-18,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+377,377,377,2023-08-24,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+378,378,378,2024-05-24,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+379,379,379,2024-05-28,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+380,380,380,2023-12-23,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+381,381,381,2024-01-08,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+382,382,382,2023-09-19,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+383,383,383,2024-03-25,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+384,384,384,2023-11-02,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+385,385,385,2023-09-30,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+386,386,386,2024-03-24,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+387,387,387,2023-11-10,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+388,388,388,2024-03-22,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+389,389,389,2024-06-23,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+390,390,390,2024-06-09,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+391,391,391,2024-08-05,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+392,392,392,2023-11-25,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+393,393,393,2024-02-10,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+394,394,394,2024-06-13,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+395,395,395,2024-01-22,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+396,396,396,2023-12-10,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+397,397,397,2024-08-03,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+398,398,398,2023-11-10,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+399,399,399,2024-01-03,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+400,400,400,2023-09-25,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+401,401,401,2023-08-30,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+402,402,402,2023-10-14,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+403,403,403,2024-05-03,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+404,404,404,2023-09-09,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+405,405,405,2024-04-21,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+406,406,406,2024-08-03,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+407,407,407,2023-10-12,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+408,408,408,2024-06-24,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+409,409,409,2024-01-04,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+410,410,410,2024-07-06,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+411,411,411,2024-04-24,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+412,412,412,2023-09-21,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+413,413,413,2024-03-26,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+414,414,414,2023-10-24,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+415,415,415,2024-01-18,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+416,416,416,2024-05-05,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+417,417,417,2024-03-10,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+418,418,418,2023-10-01,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+419,419,419,2023-10-20,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+420,420,420,2024-03-10,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+421,421,421,2023-10-15,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+422,422,422,2024-06-05,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+423,423,423,2023-10-12,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+424,424,424,2023-10-24,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+425,425,425,2023-10-28,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+426,426,426,2024-01-16,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+427,427,427,2024-01-05,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+428,428,428,2023-09-16,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+429,429,429,2024-01-10,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+430,430,430,2023-11-18,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+431,431,431,2024-05-27,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+432,432,432,2023-11-13,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+433,433,433,2023-12-24,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+434,434,434,2024-08-19,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+435,435,435,2024-04-04,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+436,436,436,2023-08-31,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+437,437,437,2024-05-17,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+438,438,438,2024-01-10,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+439,439,439,2024-01-10,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+440,440,440,2024-03-12,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+441,441,441,2023-09-22,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+442,442,442,2024-03-15,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+443,443,443,2024-01-26,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+444,444,444,2023-12-24,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+445,445,445,2023-10-12,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+446,446,446,2024-02-12,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+447,447,447,2023-12-01,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+448,448,448,2024-05-10,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+449,449,449,2023-10-07,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+450,450,450,2024-04-14,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+451,451,451,2024-02-27,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+452,452,452,2024-06-25,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+453,453,453,2024-05-12,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+454,454,454,2023-08-23,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+455,455,455,2024-08-15,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+456,456,456,2023-09-16,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+457,457,457,2023-12-02,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+458,458,458,2024-01-04,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+459,459,459,2024-02-01,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+460,460,460,2024-05-13,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+461,461,461,2024-03-12,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+462,462,462,2024-07-16,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+463,463,463,2024-04-01,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+464,464,464,2023-12-12,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+465,465,465,2023-09-23,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+466,466,466,2023-11-03,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+467,467,467,2023-12-25,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+468,468,468,2024-05-24,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+469,469,469,2024-03-10,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+470,470,470,2023-12-18,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+471,471,471,2023-10-25,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+472,472,472,2024-03-08,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+473,473,473,2023-10-22,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+474,474,474,2024-03-31,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+475,475,475,2023-09-28,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+476,476,476,2023-12-30,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+477,477,477,2024-04-22,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+478,478,478,2024-04-23,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+479,479,479,2023-11-04,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+480,480,480,2023-11-24,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+481,481,481,2024-07-01,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+482,482,482,2023-09-18,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+483,483,483,2024-05-07,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+484,484,484,2024-01-07,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+485,485,485,2024-08-12,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+486,486,486,2023-11-11,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+487,487,487,2023-10-26,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+488,488,488,2023-08-21,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+489,489,489,2023-09-27,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+490,490,490,2024-07-06,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+491,491,491,2023-09-09,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+492,492,492,2023-10-09,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+493,493,493,2024-04-13,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+494,494,494,2024-06-09,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+495,495,495,2023-10-29,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+496,496,496,2024-01-09,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+497,497,497,2023-10-04,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+498,498,498,2024-06-30,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+499,499,499,2024-05-08,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+500,500,500,2023-11-24,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+501,501,501,2024-06-08,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+502,502,502,2023-12-15,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+503,503,503,2023-10-11,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+504,504,504,2023-11-24,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+505,505,505,2024-08-11,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+506,506,506,2024-06-27,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+507,507,507,2024-02-01,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+508,508,508,2024-05-09,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+509,509,509,2024-05-30,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+510,510,510,2023-11-30,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+511,511,511,2024-02-05,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+512,512,512,2023-10-09,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+513,513,513,2024-08-19,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+514,514,514,2024-01-11,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+515,515,515,2024-06-08,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+516,516,516,2023-12-14,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+517,517,517,2023-09-12,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+518,518,518,2024-06-16,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+519,519,519,2024-01-03,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+520,520,520,2024-06-02,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+521,521,521,2024-02-18,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+522,522,522,2023-12-12,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+523,523,523,2024-01-19,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+524,524,524,2024-07-10,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+525,525,525,2023-08-22,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+526,526,526,2023-09-13,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+527,527,527,2024-01-14,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+528,528,528,2024-03-31,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+529,529,529,2023-08-21,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+530,530,530,2024-01-19,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+531,531,531,2024-02-27,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+532,532,532,2023-09-30,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+533,533,533,2024-04-26,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+534,534,534,2023-12-04,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+535,535,535,2023-10-09,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+536,536,536,2024-05-25,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+537,537,537,2024-07-06,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+538,538,538,2023-09-23,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+539,539,539,2024-02-08,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+540,540,540,2024-02-26,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+541,541,541,2023-11-23,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+542,542,542,2023-11-15,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+543,543,543,2024-01-27,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+544,544,544,2023-08-21,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+545,545,545,2024-03-29,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+546,546,546,2024-03-10,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+547,547,547,2023-12-25,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+548,548,548,2023-10-01,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+549,549,549,2024-04-10,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+550,550,550,2024-07-25,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+551,551,551,2024-01-19,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+552,552,552,2023-12-21,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+553,553,553,2023-10-16,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+554,554,554,2023-09-25,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+555,555,555,2024-03-17,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+556,556,556,2024-08-15,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+557,557,557,2024-05-09,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+558,558,558,2024-06-30,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+559,559,559,2023-11-25,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+560,560,560,2023-12-10,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+561,561,561,2024-01-19,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+562,562,562,2024-02-07,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+563,563,563,2024-03-11,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+564,564,564,2023-08-25,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+565,565,565,2023-12-06,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+566,566,566,2024-03-24,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+567,567,567,2023-11-23,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+568,568,568,2023-12-11,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+569,569,569,2024-07-05,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+570,570,570,2024-07-05,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+571,571,571,2023-09-03,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+572,572,572,2023-12-28,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+573,573,573,2024-08-12,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+574,574,574,2024-07-08,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+575,575,575,2023-09-07,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+576,576,576,2023-09-15,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+577,577,577,2023-09-07,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+578,578,578,2024-04-06,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+579,579,579,2023-11-16,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+580,580,580,2023-12-14,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+581,581,581,2023-10-21,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+582,582,582,2024-08-06,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+583,583,583,2024-06-07,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+584,584,584,2024-01-13,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+585,585,585,2024-07-09,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+586,586,586,2024-05-08,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+587,587,587,2024-02-28,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+588,588,588,2024-05-31,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+589,589,589,2024-06-29,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+590,590,590,2024-03-25,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+591,591,591,2024-03-01,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+592,592,592,2023-12-04,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+593,593,593,2024-03-22,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+594,594,594,2023-12-06,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+595,595,595,2024-03-15,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+596,596,596,2023-08-31,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+597,597,597,2023-09-28,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+598,598,598,2024-08-11,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+599,599,599,2023-09-02,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+600,600,600,2024-01-03,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+601,601,601,2023-08-30,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+602,602,602,2024-02-20,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+603,603,603,2024-06-08,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+604,604,604,2024-04-24,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+605,605,605,2024-03-22,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+606,606,606,2023-10-03,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+607,607,607,2023-11-14,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+608,608,608,2024-02-09,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+609,609,609,2024-07-31,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+610,610,610,2024-02-19,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+611,611,611,2024-03-14,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+612,612,612,2023-11-25,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+613,613,613,2024-04-01,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+614,614,614,2024-08-16,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+615,615,615,2023-11-18,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+616,616,616,2024-02-16,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+617,617,617,2023-12-17,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+618,618,618,2023-11-27,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+619,619,619,2023-10-07,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+620,620,620,2024-02-21,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+621,621,621,2024-06-12,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+622,622,622,2024-03-15,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+623,623,623,2024-03-09,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+624,624,624,2023-09-07,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+625,625,625,2024-07-08,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+626,626,626,2024-06-29,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+627,627,627,2024-07-06,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+628,628,628,2024-02-27,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+629,629,629,2024-02-20,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+630,630,630,2024-07-24,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+631,631,631,2024-05-28,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+632,632,632,2024-07-01,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+633,633,633,2024-04-12,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+634,634,634,2024-05-07,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+635,635,635,2024-04-19,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+636,636,636,2024-04-12,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+637,637,637,2023-10-08,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+638,638,638,2024-04-10,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+639,639,639,2023-08-25,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+640,640,640,2024-07-10,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+641,641,641,2024-02-09,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+642,642,642,2023-09-07,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+643,643,643,2023-11-08,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+644,644,644,2024-03-18,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+645,645,645,2023-10-07,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+646,646,646,2023-12-05,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+647,647,647,2024-05-22,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+648,648,648,2023-12-06,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+649,649,649,2024-06-20,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+650,650,650,2024-01-15,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+651,651,651,2024-07-26,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+652,652,652,2024-02-14,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+653,653,653,2023-09-12,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+654,654,654,2024-06-02,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+655,655,655,2023-12-31,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+656,656,656,2023-10-12,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+657,657,657,2024-04-07,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+658,658,658,2024-01-02,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+659,659,659,2024-03-11,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+660,660,660,2023-09-02,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+661,661,661,2023-12-19,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+662,662,662,2023-09-10,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+663,663,663,2024-05-01,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+664,664,664,2023-09-27,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+665,665,665,2023-10-14,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+666,666,666,2023-11-23,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+667,667,667,2024-05-17,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+668,668,668,2024-01-26,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+669,669,669,2024-03-23,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+670,670,670,2024-05-20,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+671,671,671,2023-12-31,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+672,672,672,2023-10-13,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+673,673,673,2024-08-10,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+674,674,674,2023-12-24,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+675,675,675,2024-03-07,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+676,676,676,2023-10-26,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+677,677,677,2024-07-31,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+678,678,678,2023-10-20,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+679,679,679,2023-12-11,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+680,680,680,2024-04-13,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+681,681,681,2024-04-22,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+682,682,682,2024-02-10,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+683,683,683,2023-08-20,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+684,684,684,2024-07-01,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+685,685,685,2024-06-01,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+686,686,686,2023-09-13,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+687,687,687,2023-10-05,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+688,688,688,2023-10-30,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+689,689,689,2024-04-30,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+690,690,690,2024-07-19,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+691,691,691,2024-07-09,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+692,692,692,2024-05-04,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+693,693,693,2023-09-06,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+694,694,694,2023-12-09,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+695,695,695,2024-03-03,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+696,696,696,2024-07-30,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+697,697,697,2024-07-29,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+698,698,698,2023-10-27,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+699,699,699,2023-11-12,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+700,700,700,2024-06-12,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+701,701,701,2023-12-16,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+702,702,702,2024-01-05,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+703,703,703,2023-10-26,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+704,704,704,2023-10-03,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+705,705,705,2024-06-08,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+706,706,706,2023-12-13,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+707,707,707,2024-03-09,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+708,708,708,2023-10-02,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+709,709,709,2023-11-19,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+710,710,710,2024-02-01,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+711,711,711,2024-05-16,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+712,712,712,2023-10-24,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+713,713,713,2024-03-23,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+714,714,714,2024-03-02,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+715,715,715,2023-12-13,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+716,716,716,2024-03-08,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+717,717,717,2024-05-06,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+718,718,718,2024-07-31,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+719,719,719,2023-12-08,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+720,720,720,2023-10-24,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+721,721,721,2024-04-28,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+722,722,722,2023-12-07,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+723,723,723,2024-06-13,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+724,724,724,2024-04-19,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+725,725,725,2023-09-18,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+726,726,726,2023-12-27,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+727,727,727,2024-01-17,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+728,728,728,2023-09-27,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+729,729,729,2024-04-14,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+730,730,730,2023-12-14,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+731,731,731,2023-09-03,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+732,732,732,2023-09-14,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+733,733,733,2023-10-20,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+734,734,734,2023-08-28,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+735,735,735,2024-07-22,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+736,736,736,2023-09-08,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+737,737,737,2024-02-02,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+738,738,738,2023-11-25,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+739,739,739,2024-04-12,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+740,740,740,2023-11-23,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+741,741,741,2024-02-25,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+742,742,742,2023-11-23,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+743,743,743,2023-10-01,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+744,744,744,2023-09-29,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+745,745,745,2024-07-18,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+746,746,746,2023-08-31,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+747,747,747,2024-05-18,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+748,748,748,2024-04-13,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+749,749,749,2024-06-10,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+750,750,750,2023-09-30,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+751,751,751,2024-03-19,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+752,752,752,2024-04-28,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+753,753,753,2023-08-20,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+754,754,754,2024-08-19,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+755,755,755,2024-05-29,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+756,756,756,2024-07-21,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+757,757,757,2023-10-12,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+758,758,758,2023-12-18,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+759,759,759,2024-07-27,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+760,760,760,2023-11-25,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+761,761,761,2023-09-29,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+762,762,762,2023-11-29,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+763,763,763,2023-10-24,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+764,764,764,2024-02-19,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+765,765,765,2023-10-18,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+766,766,766,2023-08-27,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+767,767,767,2023-12-09,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+768,768,768,2024-05-28,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+769,769,769,2024-08-18,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+770,770,770,2024-02-20,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+771,771,771,2023-10-18,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+772,772,772,2024-07-23,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+773,773,773,2024-01-25,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+774,774,774,2024-01-08,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+775,775,775,2024-05-15,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+776,776,776,2023-08-21,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+777,777,777,2023-11-28,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+778,778,778,2024-02-11,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+779,779,779,2023-10-04,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+780,780,780,2024-08-12,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+781,781,781,2024-08-09,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+782,782,782,2024-03-14,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+783,783,783,2024-01-28,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+784,784,784,2024-03-02,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+785,785,785,2023-09-12,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+786,786,786,2024-03-12,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+787,787,787,2024-05-31,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+788,788,788,2024-06-15,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+789,789,789,2024-05-04,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+790,790,790,2024-08-10,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+791,791,791,2024-03-10,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+792,792,792,2023-11-13,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+793,793,793,2024-06-30,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+794,794,794,2024-07-04,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+795,795,795,2024-08-16,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+796,796,796,2024-08-17,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+797,797,797,2024-05-11,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+798,798,798,2023-12-21,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+799,799,799,2023-11-08,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+800,800,800,2023-12-09,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+801,801,801,2023-08-25,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+802,802,802,2024-04-16,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+803,803,803,2024-01-14,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+804,804,804,2024-02-19,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+805,805,805,2024-04-28,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+806,806,806,2024-07-10,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+807,807,807,2023-11-20,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+808,808,808,2024-02-09,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+809,809,809,2024-04-09,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+810,810,810,2024-04-05,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+811,811,811,2024-07-24,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+812,812,812,2023-09-23,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+813,813,813,2023-10-05,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+814,814,814,2024-06-01,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+815,815,815,2023-10-12,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+816,816,816,2023-10-14,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+817,817,817,2023-09-16,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+818,818,818,2023-08-28,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+819,819,819,2023-10-12,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+820,820,820,2024-04-17,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+821,821,821,2023-11-21,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+822,822,822,2024-01-25,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+823,823,823,2023-10-18,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+824,824,824,2023-09-12,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+825,825,825,2023-08-22,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+826,826,826,2023-12-12,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+827,827,827,2023-09-24,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+828,828,828,2024-06-25,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+829,829,829,2023-09-28,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+830,830,830,2023-11-02,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+831,831,831,2023-12-26,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+832,832,832,2024-07-08,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+833,833,833,2023-12-25,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+834,834,834,2023-10-01,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+835,835,835,2023-12-02,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+836,836,836,2024-07-25,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+837,837,837,2024-05-13,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+838,838,838,2023-11-09,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+839,839,839,2023-11-21,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+840,840,840,2024-07-28,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+841,841,841,2024-03-29,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+842,842,842,2023-11-12,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+843,843,843,2024-01-15,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+844,844,844,2023-09-14,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+845,845,845,2024-07-21,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+846,846,846,2024-04-17,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+847,847,847,2023-12-10,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+848,848,848,2024-03-15,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+849,849,849,2023-12-09,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+850,850,850,2023-12-06,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+851,851,851,2023-08-26,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+852,852,852,2024-03-22,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+853,853,853,2023-09-18,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+854,854,854,2024-05-12,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+855,855,855,2023-09-30,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+856,856,856,2023-11-08,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+857,857,857,2023-11-09,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+858,858,858,2024-01-09,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+859,859,859,2024-02-13,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+860,860,860,2023-10-18,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+861,861,861,2024-02-16,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+862,862,862,2024-06-16,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+863,863,863,2024-04-02,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+864,864,864,2023-11-25,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+865,865,865,2024-06-30,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+866,866,866,2024-01-20,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+867,867,867,2023-12-04,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+868,868,868,2024-07-18,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+869,869,869,2023-08-21,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+870,870,870,2024-04-23,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+871,871,871,2024-02-07,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+872,872,872,2024-01-19,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+873,873,873,2024-05-16,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+874,874,874,2024-05-18,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+875,875,875,2024-02-12,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+876,876,876,2024-05-05,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+877,877,877,2024-04-15,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+878,878,878,2024-06-21,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+879,879,879,2023-12-04,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+880,880,880,2023-10-31,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+881,881,881,2024-05-21,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+882,882,882,2023-12-06,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+883,883,883,2023-12-31,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+884,884,884,2024-03-27,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+885,885,885,2024-07-03,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+886,886,886,2024-07-16,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+887,887,887,2024-02-12,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+888,888,888,2023-10-29,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+889,889,889,2023-12-26,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+890,890,890,2024-07-09,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+891,891,891,2024-01-29,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+892,892,892,2023-10-13,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+893,893,893,2023-12-15,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+894,894,894,2023-10-07,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+895,895,895,2024-06-16,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+896,896,896,2024-07-30,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+897,897,897,2024-06-28,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+898,898,898,2024-06-22,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+899,899,899,2024-06-01,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+900,900,900,2024-06-06,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+901,901,901,2024-04-21,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+902,902,902,2023-12-11,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+903,903,903,2023-12-16,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+904,904,904,2024-06-16,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+905,905,905,2024-07-03,4,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+906,906,906,2023-10-03,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+907,907,907,2024-01-06,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+908,908,908,2024-01-25,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+909,909,909,2024-08-17,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+910,910,910,2024-06-08,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+911,911,911,2024-03-13,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+912,912,912,2024-04-08,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+913,913,913,2024-01-24,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+914,914,914,2024-08-03,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+915,915,915,2024-07-23,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+916,916,916,2024-01-13,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+917,917,917,2023-11-20,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+918,918,918,2024-04-08,5,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+919,919,919,2023-09-24,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+920,920,920,2023-10-14,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+921,921,921,2024-07-04,2,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+922,922,922,2024-05-04,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+923,923,923,2024-02-05,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+924,924,924,2024-01-19,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+925,925,925,2024-04-28,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+926,926,926,2024-05-22,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+927,927,927,2024-08-06,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+928,928,928,2024-07-18,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+929,929,929,2023-10-05,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+930,930,930,2024-03-20,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+931,931,931,2023-09-28,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+932,932,932,2024-05-01,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+933,933,933,2023-11-29,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+934,934,934,2024-08-13,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+935,935,935,2024-02-09,1,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+936,936,936,2024-06-11,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+937,937,937,2024-01-11,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+938,938,938,2024-07-12,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+939,939,939,2024-06-26,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+940,940,940,2023-10-03,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+941,941,941,2024-05-17,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+942,942,942,2024-06-25,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+943,943,943,2024-07-07,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+944,944,944,2024-03-15,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+945,945,945,2023-10-11,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+946,946,946,2024-03-29,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+947,947,947,2024-06-15,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+948,948,948,2024-03-31,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+949,949,949,2023-12-13,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+950,950,950,2024-02-13,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+951,951,951,2024-06-29,1,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+952,952,952,2024-07-09,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+953,953,953,2024-08-05,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+954,954,954,2023-10-20,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+955,955,955,2024-05-05,3,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+956,956,956,2023-10-06,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+957,957,957,2024-07-23,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+958,958,958,2024-06-12,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+959,959,959,2023-11-19,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+960,960,960,2023-10-26,5,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+961,961,961,2024-07-25,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+962,962,962,2023-10-09,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+963,963,963,2024-05-05,5,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+964,964,964,2024-04-03,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+965,965,965,2024-02-18,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+966,966,966,2024-05-26,4,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+967,967,967,2023-11-15,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+968,968,968,2023-09-27,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+969,969,969,2023-09-28,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+970,970,970,2023-12-18,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+971,971,971,2023-12-23,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+972,972,972,2023-10-05,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+973,973,973,2024-03-26,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+974,974,974,2023-10-24,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+975,975,975,2024-05-02,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+976,976,976,2023-12-14,1,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+977,977,977,2023-09-21,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+978,978,978,2023-11-15,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+979,979,979,2023-12-07,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+980,980,980,2024-07-14,2,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+981,981,981,2024-01-08,1,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+982,982,982,2024-01-07,5,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+983,983,983,2024-07-28,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+984,984,984,2024-05-04,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+985,985,985,2024-03-17,5,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+986,986,986,2024-03-09,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+987,987,987,2023-11-10,1,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+988,988,988,2023-10-07,2,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+989,989,989,2023-12-23,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+990,990,990,2024-02-08,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+991,991,991,2024-06-19,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+992,992,992,2024-08-10,4,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+993,993,993,2024-03-23,3,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+994,994,994,2024-06-21,4,"I'm disappointed with the quality of the product; it didn't match the deascription, and it arrived damaged."
+995,995,995,2024-03-28,3,"Absolutely thrilled with my purchase! The quality exceeded my expectations, and the shipping was super fast."
+996,996,996,2024-01-19,2,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+997,997,997,2023-08-20,4,"The item took much longer to arrive than expected, and the customer service was unresponsive to my concerns."
+998,998,998,2024-08-05,3,I'm impressed with the attention to detail and the care taken in packaging. Will definitely be ordering again!
+999,999,999,2024-05-22,3,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
+1000,1000,1000,2024-06-29,2,"Great value for money! Thed product arrived exactly as described, and the customer service was top-notch."
