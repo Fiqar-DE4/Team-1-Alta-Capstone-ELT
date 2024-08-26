@@ -13,10 +13,10 @@ def dataIngestion():
     postgres_to_bigquery = AirbyteTriggerSyncOperator(
         task_id='ingest_postgres_to_bigquery',
         airbyte_conn_id='airbyte_conn',
-        connection_id='3f127ce8-bdbd-4f89-983e-917c89ac8433',  # Disesuaikan dengan ID koneksi yang benar
+        connection_id='bcbef634-10f5-413a-aac4-feecf4158c37',  # Disesuaikan dengan ID koneksi yang benar
         asynchronous=False,
         timeout=3600,
-        wait_seconds=3
+        wait_seconds=3,
     )
 
     postgres_to_bigquery

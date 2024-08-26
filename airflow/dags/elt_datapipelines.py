@@ -7,7 +7,7 @@ from include.dbt.fraud.cosmos_config import DBT_CONFIG, DBT_PROJECT_CONFIG
 from airflow.providers.airbyte.operators.airbyte import AirbyteTriggerSyncOperator
 from airflow.models.baseoperator import chain
 
-AIRBYTE_CONN_ID = '3f127ce8-bdbd-4f89-983e-917c89ac8433'
+AIRBYTE_CONN_ID = 'bcbef634-10f5-413a-aac4-feecf4158c37'
 
 @dag(
     start_date=days_ago(1),
