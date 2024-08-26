@@ -1,0 +1,12 @@
+*.doc
+*.docx
+*.env
+logs
+temporal
+.template
+.venv
+data_lama
+citus-db-data
+citus-healthcheck
+postgre-data
+temporary

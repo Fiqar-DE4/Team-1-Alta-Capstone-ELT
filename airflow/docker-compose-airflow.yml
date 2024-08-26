@@ -267,12 +267,6 @@ services:
     networks:
       - airflow-airbyte-network
 
-  dbt:
-    build: .
-    image: dbt_in_docker_compose
-    networks:
-      - airflow-airbyte-network
-
 volumes:
   postgres-db-volume:
 
