@@ -1,6 +1,7 @@
 *.doc
 *.docx
 *.env
+*.json
 logs
 temporal
 .template
