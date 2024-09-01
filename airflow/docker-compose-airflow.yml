@@ -1,7 +1,7 @@
 version: '3.8'
 x-airflow-common:
   &airflow-common
-  image: ${AIRFLOW_IMAGE_NAME:-apache/airflow:2.7.2}
+  build: .
   environment:
     &airflow-common-env
     AIRFLOW__CORE__EXECUTOR: CeleryExecutor
@@ -21,12 +21,17 @@ x-airflow-common:
     AIRFLOW__SMTP__SMTP_PASSWORD: ${AIRFLOW__SMTP__SMTP_PASSWORD}
     AIRFLOW__SMTP__SMTP_PORT: 587
     AIRFLOW__SMTP__SMTP_MAIL_FROM: 'no-reply@gmail.com'
+    PYTHONPATH: /opt/airflow/dags/dbt
+    # PIP_ADDITIONAL_REQUIREMENTS: ${_PIP_ADDITIONAL_REQUIREMENTS:-}
   volumes:
     - ${AIRFLOW_PROJ_DIR:-.}/dags:/opt/airflow/dags
     - ${AIRFLOW_PROJ_DIR:-.}/logs:/opt/airflow/logs
     - ${AIRFLOW_PROJ_DIR:-.}/config:/opt/airflow/config
     - ${AIRFLOW_PROJ_DIR:-.}/plugins:/opt/airflow/plugins
     - ${AIRFLOW_PROJ_DIR:-.}/config/airflow.cfg:/usr/local/airflow/airflow.cfg
+    - C:/Users/USER/Alta/New-Capstone-Project-ELT-Team-1/dbt:/opt/airflow/dags/dbt
+    - C:/Users/USER/Alta/New-Capstone-Project-ELT-Team-1/dbt/analys/capstone_bigquery_key.json:/opt/airflow/dags/dbt/analys/capstone_bigquery_key.json
+    - ${GCP_SERVICE_ACCOUNT_PATH:-.}:/opt/airflow/service_accounts
   user: "${AIRFLOW_UID:-50000}:0"
   depends_on:
     &airflow-common-depends-on
@@ -34,6 +39,8 @@ x-airflow-common:
       condition: service_healthy
     postgres:
       condition: service_healthy
+  networks:
+        - airflow-airbyte-network
 
 services:
   postgres:
@@ -267,9 +274,29 @@ services:
     networks:
       - airflow-airbyte-network
 
+
 volumes:
+  workspace:
+    name: ${WORKSPACE_DOCKER_MOUNT}
+  # the data volume is only needed for backward compatibility; when users upgrade
+  # from an old Airbyte version that relies on file-based configs, the server needs
+  # to read this volume to copy their configs to the database
+  data:
+    name: ${DATA_DOCKER_MOUNT}
+  mysql-db:
+    name: mysql_db
+  db:
+    name: ${DB_DOCKER_MOUNT}
+  local_pgdata:
+  pgadmin-data:
   postgres-db-volume:
 
+configs:
+  flags:
+    file: ./flags.yml
+
 networks:
+  airbyte_public:
+  airbyte_internal:
   airflow-airbyte-network:
     external: true
