@@ -400,7 +400,8 @@ dbt_cosmos_dag = DbtDag(
 dbt_cosmos_dag
 ```
 
-# Detailed Explanation
+<b>Detailed Explanation</b>
+</br>
 # Import Statements:
 * from pendulum import datetime: Imports the datetime function from the Pendulum library for handling date and time operations.
 * from airflow.decorators import dag, task, task_group: Imports decorators to define DAGs, tasks, and task groups in Airflow.
