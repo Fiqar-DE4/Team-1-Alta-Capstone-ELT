@@ -1,4 +1,4 @@
-# CAPTSONE-PROJECT-ELT-ALTA: ELT Pipeline Data Model for Product Performance Analysis
+# Capstone-Project-ELT-Alta: ELT Pipeline Data Model for Product Performance Analysis
 ## Background Case
 DreamShop, a rapidly growing e-commerce platform, has revolutionized how customers shop online by offering a vast range of products from electronics to home essentials. As DreamShop continues to expand its product catalog and customer base, the company faces new challenges in understanding product performance, managing inventory, and enhancing customer satisfaction.
 
@@ -67,7 +67,7 @@ Activate virtual environment
 ```
 dbt_venv\Scripts\activate            # activate the environment for Windows
 ```
-### Install and Setup dbt
+### Install and Setup DBT
 Install dbt-bigquery
 ```
 python -m pip install dbt-bigquery
@@ -338,7 +338,6 @@ from airflow.decorators import dag, task, task_group
 from airflow.operators.trigger_dagrun import TriggerDagRunOperator
 from airflow.providers.airbyte.operators.airbyte import AirbyteTriggerSyncOperator
 from airflow.models.baseoperator import chain
-
 from cosmos import DbtDag
 from cosmos.operators import DbtDocsOperator
 from cosmos.config import RenderConfig
@@ -401,6 +400,7 @@ dbt_cosmos_dag = DbtDag(
 dbt_cosmos_dag
 ```
 ```
+
 <b>Detailed Explanation</b>
 </br>
 
@@ -464,11 +464,15 @@ extract_and_transform_dag = extract_and_transform(): Instantiates the DAG define
 
 # Instantiate the dbt DAG:
 * dbt_cosmos_dag: Instantiates the DAG created for the dbt pipeline, making it ready to be scheduled and run.
-
+```
+```
 <b>Triger DAG</b>
 </br>
+
 You can trigger the DAG and monitor its progress in the Airflow UI.
 ![dags](documentations/elt-dags.png)
-
+```
+```
 ## Marketing campaign analysis visualization
 The visualizations were created using Looker Studio, which provides insights into marketing campaign performance. You can view the visualization [here](link to Looker Studio).
+```
