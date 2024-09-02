@@ -398,12 +398,9 @@ dbt_cosmos_dag = DbtDag(
 
 # Instantiate the dbt DAG
 dbt_cosmos_dag
-```
-```
 
-<b>Detailed Explanation</b>
-</br>
 
+# Detailed Explanation
 # Import Statements:
 * from pendulum import datetime: Imports the datetime function from the Pendulum library for handling date and time operations.
 * from airflow.decorators import dag, task, task_group: Imports decorators to define DAGs, tasks, and task groups in Airflow.
@@ -464,15 +461,15 @@ extract_and_transform_dag = extract_and_transform(): Instantiates the DAG define
 
 # Instantiate the dbt DAG:
 * dbt_cosmos_dag: Instantiates the DAG created for the dbt pipeline, making it ready to be scheduled and run.
-```
-```
+
+
 <b>Triger DAG</b>
 </br>
 
 You can trigger the DAG and monitor its progress in the Airflow UI.
 ![dags](documentations/elt-dags.png)
-```
-```
+
+
 ## Marketing campaign analysis visualization
 The visualizations were created using Looker Studio, which provides insights into marketing campaign performance. You can view the visualization [here](link to Looker Studio).
-```
+
