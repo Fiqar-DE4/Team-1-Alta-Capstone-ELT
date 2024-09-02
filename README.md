@@ -398,7 +398,7 @@ dbt_cosmos_dag = DbtDag(
 
 # Instantiate the dbt DAG
 dbt_cosmos_dag
-
+```
 
 # Detailed Explanation
 # Import Statements:
