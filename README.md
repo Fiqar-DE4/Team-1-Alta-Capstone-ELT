@@ -32,7 +32,7 @@ This data pipeline uses the ELT concept.
 ![data_pipeline](documentations/dreamshop-elt-data-architecture.jpg)
 
 ## ERD
-![erd](documentations/dreamshop-erd.png)
+![erd](documentations/dreamshop-erd.jpg)
 
 ## Clone This Repository
 ```
@@ -399,7 +399,8 @@ dbt_cosmos_dag = DbtDag(
 
 # Instantiate the dbt DAG
 dbt_cosmos_dag
-
+```
+```
 <b>Detailed Explanation</b>
 </br>
 
