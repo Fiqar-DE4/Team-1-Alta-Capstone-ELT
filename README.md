@@ -474,11 +474,10 @@ extract_and_transform_dag = extract_and_transform(): Instantiates the DAG define
 
 <b>Triger DAG</b>
 </br>
-
 You can trigger the DAG and monitor its progress in the Airflow UI.
 ![dags](documentations/elt-dags.png)
 
 
 ## Marketing campaign analysis visualization
-The visualizations were created using Looker Studio, which provides insights into marketing campaign performance. You can view the visualization [here](link to Looker Studio).
+The visualizations were created using Looker Studio, which provides insights into marketing campaign performance. You can view the visualization [here](https://lookerstudio.google.com/reporting/66e680ba-6d01-48d3-bb45-c7b8ef13227b/page/AfaAE).
 
