@@ -2,7 +2,7 @@
 ## Background Case
 DreamShop, a rapidly growing e-commerce platform, has revolutionized the way customers shop online by offering a wide range of products, particularly in electronics and home appliances. As DreamShop continues to expand its product catalog and customer base, the company faces new challenges in understanding product performance, managing inventory, and enhancing customer satisfaction.
 
-In an era where data-driven decisions are crucial, DreamShop's management has identified a critical need to harness the power of its data to stay competitive. With millions of transactions occurring daily, along with an ever-increasing volume of customer reviews and product returns, the company must develop an analytical approach to turn raw data into actionable insights.
+In an era where data-driven decisions are crucial, DreamShop's management has identified a critical need to harness the power of its data to stay competitive. With many transactions occurring daily, along with an ever-increasing volume of customer reviews and product returns, the company must develop an analytical approach to turn raw data into actionable insights.
 
 The Challenge
 DreamShop aims to optimize its product offerings by analyzing three key areas:
