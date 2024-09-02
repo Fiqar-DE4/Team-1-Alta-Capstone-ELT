@@ -29,10 +29,10 @@ To tackle these challenges, DreamShop has embarked on building a robust ELT (Ext
 
 ## Data Pipeline Design
 This data pipeline uses the ELT concept.
-![data_pipeline](documentations/Dreamshop-ELT-Data-Architecture.jpg)
+![data_pipeline](documentations/dreamshop-elt-data-architecture.jpg)
 
 ## ERD
-![erd](documentations/Dreamshop-ERD,png)
+![erd](documentations/dreamshop-erd.png)
 
 ## Clone This Repository
 ```
@@ -47,15 +47,15 @@ Password: password
 ```
 Create your source.
 
-![source](documentations/Source-airbyte.png)
+![source](documentations/source-airbyte.png)
 
 Create your destination.
 
-![destination](documentations/Destinations-airbyte.png)
+![destination](documentations/destinations-airbyte.png)
 
 Connect your data source with your data destination on Airbyte. At this stage you can schedule the data load.
 
-![connection_airbyte](create-connection-in-airbyte.png)
+![connection_airbyte](documentations/create-connection-in-airbyte.png)
 
 ## Data Modeling on DBT
 ### Install using pip and virtual environments
@@ -100,7 +100,6 @@ models:
 Defining Source and creating your a Model
 ```
 version: 2 
-
 sources:
   - name: dreamshop_raw
     database: capstone-project-alta
@@ -118,7 +117,6 @@ sources:
         description: "Table containing raw customer_reviews data"
 
 version: 2
-
 models:
   - name: stg_customer_reviews
     description: "This table stores customer reviews for products."
@@ -129,37 +127,31 @@ models:
         data_tests:
           - not_null
           - unique
-
       - name: product_id
         description: "ID of the product being reviewed."
         data_type: "integer"
         data_tests:
           - not_null
-
       - name: customer_id
         description: "ID of the customer who provided the review."
         data_type: "integer"
         data_tests:
           - not_null
-
       - name: review_dates
         description: "The date the review was submitted."
         data_type: "date"
         data_tests:
           - not_null
-
       - name: product_ratings
         description: "The rating given by the customer (1-5)."
         data_type: "integer"
         data_tests:
           - not_null
-
       - name: product_reviews
         description: "The text of the review provided by the customer."
         data_type: "varchar"
         data_tests:
           - not_null
-
 
   - name: stg_customers
     description: "This table stores customer information."
@@ -170,44 +162,37 @@ models:
         data_tests:
           - not_null
           - unique
-
       - name: customer_names
         description: "The full name of the customer."
         data_type: "varchar"
         data_tests:
           - not_null
-
       - name: customer_genders
         description: "The gender of the customer."
         data_type: "varchar"
         data_tests:
           - not_null
-
       - name: customer_emails
         description: "The email address of the customer."
         data_type: "varchar"
         data_tests:
           - not_null
           - unique
-
       - name: normalized_phone
         description: "The normalized phone number of the customer."
         data_type: "varchar"
         data_tests:
           - not_null
-
       - name: customer_address
         description: "The address of the customer."
         data_type: "varchar"
         data_tests:
           - not_null
-
       - name: region
         description: "The region or geographical area of the customer."
         data_type: "varchar"
         data_tests:
           - not_null
-
 
   - name: stg_products
     description: "This table stores information about the products being sold."
@@ -218,25 +203,21 @@ models:
         data_tests:
           - not_null
           - unique
-
       - name: product_category
         description: "The category of the product."
         data_type: "varchar"
         data_tests:
           - not_null
-
       - name: product_names
         description: "The name of the product."
         data_type: "varchar"
         data_tests:
           - not_null
-
       - name: product_descriptions
         description: "A description of the product."
         data_type: "varchar"
         data_tests:
           - not_null
-
 
   - name: stg_returns
     description: "This table stores information about product returns by customers."
@@ -247,31 +228,26 @@ models:
         data_tests:
           - not_null
           - unique
-
       - name: product_id
         description: "ID of the product being returned."
         data_type: "integer"
         data_tests:
           - not_null
-
       - name: return_dates
         description: "The date the product was returned."
         data_type: "date"
         data_tests:
           - not_null
-
       - name: return_qty
         description: "The quantity of products being returned."
         data_type: "integer"
         data_tests:
           - not_null
-
       - name: return_reason
         description: "The reason for the product return."
         data_type: "varchar"
         data_tests:
           - not_null
-
 
   - name: stg_sales
     description: "This table stores information about product sales."
@@ -282,37 +258,31 @@ models:
         data_tests:
           - not_null
           - unique
-
       - name: product_id
         description: "ID of the product being sold."
         data_type: "integer"
         data_tests:
           - not_null
-
       - name: product_names
         description: "The name of the product being sold."
         data_type: "varchar"
         data_tests:
           - not_null
-
       - name: sale_dates
         description: "The date the sale occurred."
         data_type: "date"
         data_tests:
           - not_null
-
       - name: sale_qty
         description: "The quantity of products sold."
         data_type: "integer"
         data_tests:
           - not_null
-
       - name: sale_prices
         description: "The price per unit of the product sold."
         data_type: "numeric"
         data_tests:
           - not_null
-
       - name: total_sales
         description: "The total amount of the sale."
         data_type: "numeric"
@@ -331,7 +301,7 @@ This is the result on your bigquery after running dbt successfully
 ![result_dbt](documentations/data-warehouse-bigquery.png)
 
 
-## dbt automation with airflow
+## DBT Automation with Airflow
 Before running the Astro CLI, ensure you [download](https://github.com/astronomer/astro-cli/releases) the installer and add its path to your local environment variables.
 
 <b>Create an Astro Project</b>
@@ -430,7 +400,9 @@ dbt_cosmos_dag = DbtDag(
 # Instantiate the dbt DAG
 dbt_cosmos_dag
 
-# Detailed Explanation
+<b>Detailed Explanation</b>
+</br>
+
 # Import Statements:
 * from pendulum import datetime: Imports the datetime function from the Pendulum library for handling date and time operations.
 * from airflow.decorators import dag, task, task_group: Imports decorators to define DAGs, tasks, and task groups in Airflow.
