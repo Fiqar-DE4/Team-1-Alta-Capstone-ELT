@@ -18,14 +18,14 @@ WITH sales_agg AS (
         s.sale_id, s.product_id, s.sale_dates
 )
 SELECT
-    s.product_id,
-    p.product_names,
-    p.product_category,
-    s.sale_dates,
-    s.total_sales,
-    s.avg_sales_per_period,
-    s.sales_growth,
-    c.region
+    s.product_id
+    , p.product_names
+    , p.product_category
+    , s.sale_dates
+    , s.total_sales
+    , s.avg_sales_per_period
+    , s.sales_growth
+    , c.region
 FROM sales_agg s
 LEFT JOIN {{ ref('stg_products') }} p ON s.product_id = p.product_id
 LEFT JOIN (
